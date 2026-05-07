@@ -433,6 +433,3 @@ Project ini dibuat untuk:
 - Data Cleaning
 - Visualisasi Data
 - Analisis data fitness dan kesehatan
-
-- Hauzan Rafi Atallah (103052330011)
-- Taufik Qurohman (103052300055)
